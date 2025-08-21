@@ -1,6 +1,10 @@
 # careconnector
 
-A new Flutter project.
+Project for Vidyasagar 
+- Care seeker
+- Care Taker 
+
+- Google account login 
 
 ## Getting Started
 
