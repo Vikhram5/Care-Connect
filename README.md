@@ -1,7 +1,10 @@
 # careconnector
 
 Project for Vidyasagar 
+
+## Roles 
 - Care seeker
+- Care Giver
 - Care Taker 
 
 - Google account login 
